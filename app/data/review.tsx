@@ -1,4 +1,4 @@
-const cardData = [
+const reviewsData = [
   {
     profilePicture: 'picture-1.webp',
     name: 'Shoguntoto',
@@ -90,3 +90,5 @@ const cardData = [
     view: `C'est une belle plateforme, les explications sont clairs, les maquettes professionnelles.`,
   },
 ];
+
+export default reviewsData;
