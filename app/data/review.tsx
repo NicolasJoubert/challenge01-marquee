@@ -1,0 +1,92 @@
+const cardData = [
+  {
+    profilePicture: 'picture-1.webp',
+    name: 'Shoguntoto',
+    pseudonym: '@thomasdev59',
+    view: `C'est une belle plateforme, les explications sont clairs, les maquettes professionnelles.`,
+  },
+  {
+    profilePicture: 'picture-2.webp',
+    name: 'Shoguntoto',
+    pseudonym: '@thomasdev59',
+    view: `Ezis répond à toutes les questions afin de nous aider le plus possible dans notre objectif.`,
+  },
+  {
+    profilePicture: 'picture-3.webp',
+    name: 'Hocine',
+    pseudonym: '@hocine',
+    view: `J'aime bien le concept d'avoir une communauté, Ezis est très à l'écoute et n'hésite pas à répondre aux questions.`,
+  },
+  {
+    profilePicture: 'picture-4.webp',
+    name: 'Youtmax654',
+    pseudonym: '@youtmax654',
+    view: `Je me suis grandement améliorer sur les technologies que j'utilise et sur ma façon de travailler sur un projet.`,
+  },
+  {
+    profilePicture: 'picture-5.webp',
+    name: 'Baptiste',
+    pseudonym: '@@baptiste_lechat',
+    view: `Des projets de qualité avec toutes les ressources dont on aurait besoin pour les réaliser.`,
+  },
+  {
+    profilePicture: 'picture-6.webp',
+    name: 'Le D',
+    pseudonym: '@sport_devweb',
+    view: `Le fait d'avoir accès à un discord et une communauté fait vraiment la différence.`,
+  },
+  {
+    profilePicture: 'picture-7.webp',
+    name: 'Hocine',
+    pseudonym: '@hocine',
+    view: `J'aime bien le concept d'avoir une communauté, Ezis est très à l'écoute et n'hésite pas à répondre aux questions.`,
+  },
+  {
+    profilePicture: 'picture-8.webp',
+    name: 'Shoguntoto',
+    pseudonym: '@thomasdev59',
+    view: `Des projets de qualité avec toutes les ressources dont on aurait besoin pour les réaliser.`,
+  },
+  {
+    profilePicture: 'picture-3.webp',
+    name: 'Lois',
+    pseudonym: '@loisglld',
+    view: `Je suis surpris de la qualité des ressources et de la pertinence du contenu pour lequel je me suis abonné !`,
+  },
+  {
+    profilePicture: 'picture-9.webp',
+    name: 'Youtmax654',
+    pseudonym: '@youtmax654',
+    view: `Cette idée de challenges est de loin la meilleure que j'ai pu trouver sur internet parmi mes recherches.`,
+  },
+  {
+    profilePicture: 'picture-4.webp',
+    name: 'Lois',
+    pseudonym: '@loisglld',
+    view: `C’est vraiment lourd, les challenges sont cool, l’environnement qu’Ezis à mit en place est top !`,
+  },
+  {
+    profilePicture: 'picture-5.webp',
+    name: 'LucasQust',
+    pseudonym: '@LucasQust',
+    view: `Je suis surpris de la qualité des ressources et de la pertinence du contenu pour lequel je me suis abonné !`,
+  },
+  {
+    profilePicture: 'picture-3.webp',
+    name: 'Jojok63',
+    pseudonym: '@jojok_63',
+    view: `Une communauté très réactive, toujours prête à vous aider quelque soit le sujet.`,
+  },
+  {
+    profilePicture: 'picture-2.webp',
+    name: 'Eihposenna',
+    pseudonym: '@eihposenna',
+    view: `Ça me fait découvrir pas mal de choses sur Tailwind et les différentes possibilités qui sont offertes.`,
+  },
+  {
+    profilePicture: 'picture-1.webp',
+    name: 'Shoguntoto',
+    pseudonym: '@thomasdev59',
+    view: `C'est une belle plateforme, les explications sont clairs, les maquettes professionnelles.`,
+  },
+];
