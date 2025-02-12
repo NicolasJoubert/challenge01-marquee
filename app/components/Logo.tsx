@@ -2,7 +2,7 @@ import { SpikesIcon } from '../../public/spikes_icon';
 
 export default function Logo() {
   const logoContainer = 'flex items-center';
-  const logoText = 'ml-3 text-2xl';
+  const logoText = 'ml-2 font-medium font-aeonik text-2xl ';
 
   return (
     <div className={logoContainer}>
